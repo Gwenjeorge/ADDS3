@@ -1,4 +1,4 @@
-Créez un utilisateur wilder et au ajoutez le groupe students.  
+Créez un utilisateur wilder et ajoutez le dans le groupe students.  
 
 ![Pic](/ADDS3/screen1.png)  
 
